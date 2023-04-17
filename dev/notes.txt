@@ -25,4 +25,21 @@
 	- x with axios, fetch employees
 - x display employees
 
-- .. remap raw employee data from backend into an array of IEmployees
+- x remap raw employee data from backend into an array of IEmployees
+
+
+
+=======================
+
+- live-coding
+	- backend
+		- add POST /employee
+		- add routing (controllers)
+		- add validator
+		- add sanitizer
+	- frontend
+		- Vite js
+		- useContext
+		- react router
+		- form: add employee
+		- button: delete employee
