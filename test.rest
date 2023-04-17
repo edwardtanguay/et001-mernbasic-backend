@@ -11,5 +11,8 @@ POST {{url}}/employee
 content-type: application/json
 
 {
-	"firstName": "Hans"
+	"employee": {
+		"firstName": "hs",
+		"lastName": "Schmidt"
+	}
 }
