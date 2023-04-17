@@ -5,3 +5,11 @@
 
 ### EMPLOYEES
 {{url}}/employees
+
+### ADD EMPLOYEE
+POST {{url}}/employee
+content-type: application/json
+
+{
+	"firstName": "Hans"
+}
